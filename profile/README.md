@@ -67,20 +67,6 @@ We support:
 
 ---
 
-## Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-core&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-panel&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-bots&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-docs&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Open Contributions
 
 <p align="left">
