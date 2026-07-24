@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Torque+Community;Build.+Learn.+Contribute.;Open+Source+for+Developers" alt="Torque Community typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Build.+Learn.+Contribute.;Community+Driven+Open+Source.;Developers.+Designers.+Creators.;Powered+by+Torque+Community." />
 </p>
 
 <p align="center">
