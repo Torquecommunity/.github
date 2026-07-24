@@ -67,19 +67,6 @@ We support:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TORQUE-ORG&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TORQUE-ORG&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TORQUE-ORG&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</p>
-
----
-
 ## Featured Repositories
 
 <p align="center">
