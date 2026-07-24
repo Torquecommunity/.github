@@ -1,402 +1,212 @@
-# <p align="center">⚡ Torque Community</p>
-
 <p align="center">
-  <strong>Build. Learn. Contribute.</strong><br>
-  Community-driven open source for developers, creators, and innovators.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Torque+Community;Build.+Learn.+Contribute.;Open+Source+for+Developers" alt="Torque Community typing header" />
 </p>
 
 <p align="center">
-  <a href="#">🌐 Website</a> •
-  <a href="#">💬 Discord</a> •
-  <a href="#">📖 Documentation</a> •
-  <a href="#">🚀 Get Started</a>
+  <img src="https://img.shields.io/badge/Open%20Source-Torque-8B5CF6?style=for-the-badge" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Community-Driven-6366F1?style=for-the-badge" alt="Community Driven" />
+  <img src="https://img.shields.io/badge/Build%20Together-Yes-22C55E?style=for-the-badge" alt="Build Together" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-06B6D4?style=for-the-badge" alt="Contributions Welcome" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-Visit-111827?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docs-Read-0EA5E9?style=flat&logo=gitbook&logoColor=white" alt="Docs" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Contribute-Start%20Here-10B981?style=flat&logo=github&logoColor=white" alt="Contribute" /></a>
 </p>
 
 ---
 
-# Welcome to Torque
+## About Torque
 
-Torque is a builder-first open-source community where developers, designers, creators, and technology enthusiasts collaborate to build meaningful software together.
+Torque Community is an open-source builder community focused on helping developers ship real projects, learn modern engineering, and contribute to software used by others.
 
-We believe the best way to learn is by building real projects with real people. Whether you're writing your first pull request or leading a production-grade project, Torque provides an environment where everyone can contribute, grow, and make an impact.
+We support:
 
-Our goal is simple:
-
-> **Create software that matters while helping people become better engineers.**
-
----
-
-# Our Mission
-
-Our mission is to make open-source collaboration accessible to everyone by creating an environment where learning, innovation, and contribution happen naturally.
-
-We strive to:
-
-* Build impactful open-source software
-* Help developers gain real-world experience
-* Encourage collaboration over competition
-* Share knowledge openly
-* Foster technical leadership
-* Build tools that benefit the wider developer community
+* open-source projects
+* collaboration across skill levels
+* developer tooling
+* learning by building
+* community-led innovation
 
 ---
 
-# What We Build
+## Tech Stack
 
-Torque develops software across multiple domains.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,nextjs,react,nodejs,fastapi,docker,linux,postgres,mysql,redis,git,github,vscode" alt="Tech stack" />
+</p>
 
-### 💻 Developer Tools
-
-Developer utilities, command-line tools, automation software, SDKs, and productivity applications.
-
-### 🌐 Web Applications
-
-Modern web platforms built with scalable architectures and contemporary technologies.
-
-### 🖥 Desktop Applications
-
-Cross-platform desktop software focused on performance and usability.
-
-### ☁ Cloud & Infrastructure
-
-Infrastructure tooling, hosting platforms, deployment systems, containerization, and DevOps solutions.
-
-### 🤖 Automation
-
-Bots, AI-powered workflows, developer automation, and integrations.
-
-### 🔐 Security
-
-Authentication systems, security tooling, privacy-focused applications, and auditing solutions.
-
-### 📚 Open Source Libraries
-
-Reusable packages and frameworks that empower developers worldwide.
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-# Why Torque?
+## What Torque Builds
 
-We aren't just another programming community.
-
-Torque is built around one simple philosophy:
-
-> **Learn by building software that people actually use.**
-
-Every repository exists with a purpose.
-
-Every contribution teaches something.
-
-Every member helps improve the community.
+<p align="left">
+  <img src="https://img.shields.io/badge/Developer%20Tools-111827?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Apps-0F172A?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop%20Apps-1E293B?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Infra-172554?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-312E81?style=flat&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-7C2D12?style=flat&logo=shielddotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-7C3AED?style=flat&logo=opensourceinitiative&logoColor=white" />
+</p>
 
 ---
 
-# Why Join Torque?
-
-As a contributor you'll gain opportunities to:
-
-* Build production-ready software
-* Work alongside passionate developers
-* Improve your GitHub portfolio
-* Learn modern technologies
-* Participate in collaborative development
-* Receive constructive code reviews
-* Contribute to open-source projects
-* Develop leadership experience
-* Network with developers around the world
-* Build software that creates real impact
-
----
-
-# Core Values
-
-### Open by Default
-
-Knowledge grows when it is shared.
-
-### Community First
-
-People are always more important than code.
-
-### Learn Continuously
-
-Every contribution is an opportunity to improve.
-
-### Build with Purpose
-
-We prioritize meaningful software over unnecessary complexity.
-
-### Quality Matters
-
-Readable, maintainable, and reliable software always wins.
-
-### Respect Everyone
-
-Inclusive communities create better technology.
-
----
-
-# Open Contributions
-
-Everyone is welcome to contribute, regardless of experience.
-
-You can contribute by:
-
-* Writing code
-* Reporting bugs
-* Improving documentation
-* Designing interfaces
-* Translating documentation
-* Writing tutorials
-* Reviewing pull requests
-* Testing releases
-* Suggesting new features
-* Helping other contributors
-* Improving project architecture
-* Optimizing performance
-* Enhancing accessibility
-* Creating examples
-* Building integrations
-
-No contribution is too small.
-
----
-
-# Learning Hub
-
-Torque is more than a collection of repositories.
-
-It is a place to learn.
-
-Our Learning Hub includes:
-
-* Development guides
-* Contribution guides
-* Code standards
-* Architecture documentation
-* Project onboarding
-* Best practices
-* Open-source workflow
-* Git & GitHub tutorials
-* DevOps learning resources
-* API documentation
-* Design systems
-* Technical articles
-* Community workshops
-* Knowledge sharing sessions
-
-Learning never stops.
-
----
-
-# Community Impact
-
-Our success isn't measured only by repositories.
-
-It's measured by the people we help.
-
-Through our projects we aim to:
-
-* Enable developers worldwide
-* Build free and accessible software
-* Encourage collaboration
-* Share technical knowledge
-* Create opportunities for new contributors
-* Solve meaningful engineering problems
-* Inspire future open-source maintainers
-
-Every contribution creates a ripple effect.
-
----
-
-# Roadmap
-
-## Phase 1
-
-* Establish community foundations
-* Launch core repositories
-* Create contribution guidelines
-* Build documentation
-
-## Phase 2
-
-* Expand project ecosystem
-* Launch developer tooling
-* Improve onboarding experience
-* Organize collaborative events
-
-## Phase 3
-
-* Release production-grade open-source software
-* Grow global contributor base
-* Publish educational resources
-* Mentor new maintainers
-
-## Future Vision
-
-Torque aims to become one of the leading open-source communities where developers collaborate to create technology that benefits everyone.
-
----
-
-# Hall of Contributors
-
-Open source is powered by people.
-
-Every contributor leaves a lasting mark on Torque.
-
-Our Hall of Contributors recognizes:
-
-* Core Maintainers
-* Project Leads
-* Community Mentors
-* Documentation Champions
-* Design Contributors
-* Security Contributors
-* First-Time Contributors
-* Outstanding Community Members
-
-Every merged contribution becomes part of Torque's story.
-
----
-
-# Technology Stack
-
-Our projects may use technologies including:
-
-### Languages
-
-* TypeScript
-* JavaScript
-* Python
-* Go
-* Rust
-* C#
-* Java
-
-### Frontend
-
-* Next.js
-* React
-* Tailwind CSS
-* Electron
-
-### Backend
-
-* Node.js
-* FastAPI
-* Express
-* NestJS
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* Redis
-* MongoDB
-
-### Infrastructure
-
-* Docker
-* Linux
-* Nginx
-* GitHub Actions
-* Cloud Platforms
-
----
-
-# Contribution Journey
-
-1. Explore our repositories
-2. Find an issue
-3. Fork the project
-4. Create a feature branch
-5. Build something meaningful
-6. Submit a Pull Request
-7. Collaborate during review
-8. Get merged
-9. Celebrate your contribution 🎉
-
----
-
-# Community Principles
-
-* Build together
-* Document everything
-* Respect different perspectives
-* Encourage curiosity
-* Write maintainable software
-* Review thoughtfully
-* Learn continuously
-* Give back to the community
-
----
-
-# Get Involved
-
-Whether you're:
-
-* A beginner writing your first commit
-* A student learning software engineering
-* An experienced developer
-* A designer
-* A DevOps engineer
-* A technical writer
-* A security researcher
-
-There's a place for you at Torque.
-
----
-
-# Community
-
-Join discussions, collaborate on projects, share ideas, and help shape the future of Torque.
-
-We welcome:
-
-* Students
-* Professionals
-* Hobbyists
-* Open-source enthusiasts
-* Designers
-* Creators
-* Researchers
-
-Everyone builds together.
-
----
-
-# Support Torque
-
-You can support the community by:
-
-* ⭐ Starring our repositories
-* 🍴 Forking projects
-* 🛠 Contributing code
-* 🐞 Reporting issues
-* 📖 Improving documentation
-* 💬 Helping others
-* 📢 Sharing our work
-* ❤️ Becoming an active community member
-
-Every contribution makes Torque stronger.
-
----
-
-# Together We Build Better Software
-
-Open source isn't only about writing code.
-
-It's about sharing knowledge, solving problems, and creating opportunities for others.
-
-Whether your first contribution is a typo fix or a major feature, you're helping shape the future of Torque.
-
-We're excited to build with you.
-
-Welcome to the community.
-
----
+## GitHub Stats
 
 <p align="center">
-  <strong>Torque Community</strong><br><br>
-  Build • Learn • Share • Contribute
+  <img src="https://github-readme-stats.vercel.app/api?username=TORQUE-ORG&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TORQUE-ORG&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TORQUE-ORG&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
+</p>
+
+---
+
+## Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-core&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-panel&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-bots&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TORQUE-ORG&repo=torque-docs&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Open Contributions
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Good%20First%20Issue-Welcome-10B981?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Help%20Wanted-Open-F59E0B?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Docs%20Help-Needed-06B6D4?style=flat&logo=gitbook" />
+  <img src="https://img.shields.io/badge/Design%20Contributions-Welcome-EC4899?style=flat&logo=figma" />
+  <img src="https://img.shields.io/badge/Security%20Reviews-Open-DC2626?style=flat&logo=hackthebox" />
+</p>
+
+We welcome contributions in:
+
+* code
+* documentation
+* design
+* testing
+* localization
+* DevOps
+* security
+* community support
+
+---
+
+## Learning Hub
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docs-Available-0EA5E9?style=flat&logo=gitbook" />
+  <img src="https://img.shields.io/badge/Guides-In%20Progress-8B5CF6?style=flat&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Tutorials-Coming%20Soon-22C55E?style=flat&logo=youtube" />
+  <img src="https://img.shields.io/badge/Workshops-Community-6366F1?style=flat&logo=discord" />
+</p>
+
+Torque Learning Hub includes:
+
+* getting started guides
+* architecture notes
+* contribution walkthroughs
+* Git and GitHub workflows
+* open-source best practices
+* project onboarding
+* community workshops
+
+---
+
+## Hall of Contributors
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Core%20Maintainers-Recognized-8B5CF6?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Top%20Contributors-Featured-06B6D4?style=flat&logo=githubsponsors" />
+  <img src="https://img.shields.io/badge/New%20Contributors-Welcome-10B981?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Community%20Champions-Highlighted-F59E0B?style=flat&logo=star" />
+</p>
+
+This section celebrates:
+
+* maintainers
+* reviewers
+* documentation contributors
+* bug reporters
+* first-time contributors
+* community helpers
+
+---
+
+## Impact Roadmap
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Now-Building-111827?style=flat&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Next-Scaling-1D4ED8?style=flat&logo=rocket" />
+  <img src="https://img.shields.io/badge/Later-Impact-7C3AED?style=flat&logo=opensourceinitiative" />
+</p>
+
+### Current Focus
+
+* launch core open-source projects
+* improve contributor onboarding
+* publish documentation
+* grow community visibility
+
+### Near-Term Goals
+
+* more repositories
+* better tooling
+* contributor recognition
+* stronger design system
+
+### Long-Term Vision
+
+* global open-source collaboration
+* production-grade community projects
+* educational resources
+* sustainable contributor ecosystem
+
+---
+
+## Community Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TORQUE-ORG&style=flat-square&color=8B5CF6" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/TORQUE-ORG?style=flat-square&logo=github&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/TORQUE-ORG?style=flat-square&logo=github&label=Stars" alt="stars" />
+</p>
+
+---
+
+## Join Torque
+
+<p align="center">
+  <strong>Build software. Learn faster. Contribute openly.</strong>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Explore%20Repos-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Start%20Contributing-10B981?style=for-the-badge&logo=github" /></a>
 </p>
