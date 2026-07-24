@@ -53,6 +53,48 @@ We support:
 
 ---
 
+# 📦 Package Managers
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scoop-0066CC?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Winget-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
+
+</p>
+
+---
+
 ## What Torque Builds
 
 <p align="left">
